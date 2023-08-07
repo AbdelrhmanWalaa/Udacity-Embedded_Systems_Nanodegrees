@@ -1,0 +1,473 @@
+--------------------------------------------------------------------------------------
+               FOLLOWING CARD DETAILS ARE GENERATED FROM VCCGENERATOR.ORG
+--------------------------------------------------------------------------------------
+
+ 1. BRAND 	: VISA
+    NUMBER	: 4728459258966333
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Gara Kucharski
+    ADDRESS	: C/ Benito Guinea 60
+    COUNTRY	: EGYPT
+    MONEY	: $2243
+    CVV/CVV2: 175
+    EXPIRY	: 04/2024
+    PIN	: 9186
+    
+ 2. BRAND 	: VISA
+    NUMBER	: 4946084897338284
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Eleanor Fecteau
+    ADDRESS	: Mmminiementie 89
+    COUNTRY	: EGYPT
+    MONEY	: $2832
+    CVV/CVV2: 631
+    EXPIRY	: 04/2026
+    PIN	: 4920
+    
+ 3. BRAND 	: VISA
+    NUMBER	: 4728451059691228
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Jayden Pennington
+    ADDRESS	: Quadra 141
+    COUNTRY	: EGYPT
+    MONEY	: $2587
+    CVV/CVV2: 333
+    EXPIRY	: 12/2022
+    PIN	: 6633
+    
+ 4. BRAND 	: VISA
+    NUMBER	: 4573762093153876
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Matti Shishani
+    ADDRESS	: Coronilla 6331
+    COUNTRY	: EGYPT
+    MONEY	: $2549
+    CVV/CVV2: 109
+    EXPIRY	: 07/2024
+    PIN		: 8232
+    
+ 5. BRAND 	: VISA
+    NUMBER	: 4127856791257426
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Eden Jespersen
+    ADDRESS	: Frankfurter Allee 49
+    COUNTRY	: EGYPT
+    MONEY	: $2940
+    CVV/CVV2: 749
+    EXPIRY	: 04/2029
+    PIN	: 9638
+    
+ 6. BRAND 	: VISA
+    NUMBER	: 4946099660091878
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Knud Khouri
+    ADDRESS	: Prstevnget 48
+    COUNTRY	: EGYPT
+    MONEY	: $2182
+    CVV/CVV2: 377
+    EXPIRY	: 02/2029
+    PIN	: 4154
+    
+ 7. BRAND 	: VISA
+    NUMBER	: 4834699064563433
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Nayumi Shamoun
+    ADDRESS	: 75 Ari Belouhioti Street
+    COUNTRY	: EGYPT
+    MONEY	: $2544
+    CVV/CVV2: 164
+    EXPIRY	: 10/2029
+    PIN	: 6204
+    
+ 8. BRAND 	: VISA
+    NUMBER	: 4946069587908256
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Hrefna Endrizzi
+    ADDRESS	: Mmminiementie 77
+    COUNTRY	: EGYPT
+    MONEY	: $2076
+    CVV/CVV2: 785
+    EXPIRY	: 12/2024
+    PIN	: 4741
+    
+ 9. BRAND 	: VISA
+    NUMBER	: 4946085117749481
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Emma Larsson
+    ADDRESS	: 3246 Mulberry Lane
+    COUNTRY	: EGYPT
+    MONEY	: $2828
+    CVV/CVV2: 827
+    EXPIRY	: 09/2030
+    PIN	: 3196
+    
+ 10. BRAND 	: VISA
+    NUMBER	: 4946099683908835
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Heng Karlsen
+    ADDRESS	: 2391 Barlow Street
+    COUNTRY	: EGYPT
+    MONEY	: $2587
+    CVV/CVV2: 633
+    EXPIRY	: 08/2026
+    PIN	: 7816
+    
+ 11. BRAND 	: VISA
+    NUMBER	: 4728459316801746
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Sylvius Fiorentino
+    ADDRESS	: 94 Rue Tahar Khmiri
+    COUNTRY	: EGYPT
+    MONEY	: $2331
+    CVV/CVV2: 944
+    EXPIRY	: 07/2025
+    PIN	: 9009
+    
+ 12. BRAND 	: VISA
+    NUMBER	: 4946091385341233
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Guinevere Beckenbauer
+    ADDRESS	: Akurbraut 22
+    COUNTRY	: EGYPT
+    MONEY	: $2416
+    CVV/CVV2: 649
+    EXPIRY	: 04/2023
+    PIN	: 5927
+    
+ 13. BRAND 	: VISA
+    NUMBER	: 4127849140527532
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Christian Karlsen
+    ADDRESS	: stbygatan 11
+    COUNTRY	: EGYPT
+    MONEY	: $2509
+    CVV/CVV2: 893
+    EXPIRY	: 06/2026
+    PIN	: 6187
+    
+ 14. BRAND 	: VISA
+    NUMBER	: 4946099208191529
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Aniela Groenewold
+    ADDRESS	: 124 Iroon Polytechniou Avenue
+    COUNTRY	: EGYPT
+    MONEY	: $2946
+    CVV/CVV2: 463
+    EXPIRY	: 05/2025
+    PIN	: 8988
+    
+ 15. BRAND 	: VISA
+    NUMBER	: 4889534990778868
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Niko Krogh
+    ADDRESS	: Coba Pulskensstraat 100
+    COUNTRY	: EGYPT
+    MONEY	: $2355
+    CVV/CVV	: 788
+    EXPIRY	: 12/2023
+    PIN	: 8915
+    
+ 16. BRAND 	: VISA
+    NUMBER	: 4728455365011096
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Jasmine Braat
+    ADDRESS	: Mechelininkatu 55
+    COUNTRY	: EGYPT
+    MONEY	: $2009
+    CVV/CVV2: 143
+    EXPIRY	: 10/2027
+    PIN	: 6544
+    
+ 17. BRAND 	: VISA
+    NUMBER	: 4127858811205005
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Abigail Yuan
+    ADDRESS	: C/ Libertad 4
+    COUNTRY	: EGYPT
+    MONEY	: $2613
+    CVV/CVV2: 443
+    EXPIRY	: 12/2029
+    PIN	: 4716
+    
+ 18. BRAND 	: VISA
+    NUMBER	: 4889531407052390
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Uzoamaka White
+    ADDRESS	: Rudolstaedter Strasse 33
+    COUNTRY	: EGYPT
+    MONEY	: $2943
+    CVV/CVV2: 171
+    EXPIRY	: 08/2022
+    PIN	: 2003
+    
+ 19. BRAND 	: VISA
+    NUMBER	: 4946069255825824
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Trinette Yli-Hannuksela
+    ADDRESS	: Rynkebyvej 10
+    COUNTRY	: EGYPT
+    MONEY	: $2948
+    CVV/CVV2: 725
+    EXPIRY	: 11/2029
+    PIN	: 1974
+    
+ 20. BRAND 	: VISA
+    NUMBER	: 4728458666528354
+    BANK	: NATIONAL BANK OF EGYPT
+    NAME	: Gloria Williams
+    ADDRESS	: Houtakker 163
+    COUNTRY	: EGYPT
+    MONEY	: $2558
+    CVV/CVV2: 502
+    EXPIRY	: 08/2022
+    PIN	: 8123
+
+ 21. BRAND 	: MASTERCARD
+    NUMBER	: 5480504758161409
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Alicia Oliveira
+    ADDRESS	: Rudolstaedter Strasse 33
+    COUNTRY	: EGYPT
+    MONEY	: $670
+    CVV/CVV2: 336
+    EXPIRY	: 01/2025
+    PIN	: 8398
+    
+ 22. BRAND 	: MASTERCARD
+    NUMBER	: 5203055831071806
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Christian Kreijkes
+    ADDRESS	: Etelaesplanadi 45
+    COUNTRY	: EGYPT
+    MONEY	: $607
+    CVV/CVV2: 437
+    EXPIRY	: 02/2027
+    PIN	: 5184
+    
+ 23. BRAND 	: MASTERCARD
+    NUMBER	: 5229601486243800
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Vitoria Wirth
+    ADDRESS	: Teperova 997
+    COUNTRY	: EGYPT
+    MONEY	: $500
+    CVV/CVV2: 965
+    EXPIRY	: 02/2028
+    PIN	: 8168
+    
+ 24. BRAND 	: MASTERCARD
+    NUMBER	: 5299691742715423
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Gara Alba
+    ADDRESS	: C/ Libertad 4
+    COUNTRY	: EGYPT
+    MONEY	: $909
+    CVV/CVV2: 795
+    EXPIRY	: 01/2026
+    PIN	: 2917
+    
+ 25. BRAND 	: MASTERCARD
+    NUMBER	: 5419558003040483
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Nusrat Myllri
+    ADDRESS	: Kurfrstendamm 52
+    COUNTRY	: EGYPT
+    MONEY	: $590
+    CVV/CVV2: 280
+    EXPIRY	: 05/2027
+    PIN	: 6471
+    
+ 26. BRAND 	: MASTERCARD
+    NUMBER	: 5116136307216426
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Marija tefanija Krogh
+    ADDRESS	: Brixentaler Strasse 62
+    COUNTRY	: EGYPT
+    MONEY	: $744
+    CVV/CVV2: 395
+    EXPIRY	: 08/2023
+    PIN	: 2770
+    
+ 27. BRAND 	: MASTERCARD
+    NUMBER	: 5335847432506029
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Marc Bellucci
+    ADDRESS	: Skolegyden 22
+    COUNTRY	: EGYPT
+    MONEY	: $948
+    CVV/CVV2: 614
+    EXPIRY	: 11/2022
+    PIN	: 7851
+    
+ 28. BRAND 	: MASTERCARD
+    NUMBER	: 5424438206113309
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Khalimat Hsia
+    ADDRESS	: Kaarikatu 83
+    COUNTRY	: EGYPT
+    MONEY	: $808
+    CVV/CVV2: 351
+    EXPIRY	: 08/2030
+    PIN	: 1884
+    
+ 29. BRAND 	: MASTERCARD
+    NUMBER	: 5264166325336492
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Yasutaka Ozerov
+    ADDRESS	: ul. Majora Sucharskiego Henryka 121
+    COUNTRY	: EGYPT
+    MONEY	: $997
+    CVV/CVV2: 768
+    EXPIRY	: 03/2030
+    PIN	: 1851
+    
+ 30. BRAND 	: MASTERCARD
+    NUMBER	: 5178799115112379
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Kuon Beyer
+    ADDRESS	: Agip u. 14.
+    COUNTRY	: EGYPT
+    MONEY	: $559
+    CVV/CVV2: 522
+    EXPIRY	: 01/2030
+    PIN	: 3823
+    
+ 31. BRAND 	: MASTERCARD
+    NUMBER	: 5203057893226153
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Quinzia Bellucci
+    ADDRESS	: Bssgrnd 42
+    COUNTRY	: EGYPT
+    MONEY	: $515
+    CVV/CVV2: 110
+    EXPIRY	: 04/2024
+    PIN	: 3320
+    
+ 32. BRAND 	: MASTERCARD
+    NUMBER	: 5264207807646386
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Trinette Inarkaevich
+    ADDRESS	: 153 Block Road
+    COUNTRY	: EGYPT
+    MONEY	: $745
+    CVV/CVV2: 884
+    EXPIRY	: 10/2022
+    PIN	: 1953
+    
+ 33. BRAND 	: MASTERCARD
+    NUMBER	: 5267802359258262
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Marija tefanija Hartmannsson
+    ADDRESS	: 51 Cours Marechal-Joffre
+    COUNTRY	: EGYPT
+    MONEY	: $869
+    CVV/CVV2: 247
+    EXPIRY	: 12/2030
+    PIN	: 1537
+    
+ 34. BRAND 	: MASTERCARD
+    NUMBER	: 5505068831923038
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Shuuko Kreijkes
+    ADDRESS	: Csavargyr u. 48.
+    COUNTRY	: EGYPT
+    MONEY	: $753
+    CVV/CVV2: 427
+    EXPIRY	: 12/2027
+    PIN	: 5227
+    
+ 35. BRAND 	: MASTERCARD
+    NUMBER	: 5203785807000401
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Eduarda Chigbogu
+    ADDRESS	: Quevedo 70
+    COUNTRY	: EGYPT
+    MONEY	: $790
+    CVV/CVV2: 224
+    EXPIRY	: 12/2022
+    PIN	: 5437
+    
+ 36. BRAND 	: MASTERCARD
+    NUMBER	: 5267178364348020
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Jayden Enyinnaya
+    ADDRESS	: Forrenbhlstrasse 56
+    COUNTRY	: EGYPT
+    MONEY	: $968
+    CVV/CVV2: 955
+    EXPIRY	: 11/2028
+    PIN	: 4467
+    
+ 37. BRAND 	: MASTERCARD
+    NUMBER	: 5286038976219091
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Anzor McAuley
+    ADDRESS	: Waidckergasse 41
+    COUNTRY	: EGYPT
+    MONEY	: $566
+    CVV/CVV2: 471
+    EXPIRY	: 03/2029
+    PIN	: 8835
+    
+ 38. BRAND 	: MASTERCARD
+    NUMBER	: 5286038638252571
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Kuon Aitken
+    ADDRESS	: 43 rue Lon Dierx
+    COUNTRY	: EGYPT
+    MONEY	: $662
+    CVV/CVV2: 442
+    EXPIRY	: 10/2024
+    PIN	: 8989
+    
+ 39. BRAND 	: MASTERCARD
+    NUMBER	: 5480503086665818
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Kuon Lyberth
+    ADDRESS	: Bahngasse 50
+    COUNTRY	: EGYPT
+    MONEY	: $632
+    CVV/CVV2: 237
+    EXPIRY	: 05/2028
+    PIN	: 4046
+    
+ 40. BRAND 	: MASTERCARD
+    NUMBER	: 5267452504212622
+    BANK	: COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.
+    NAME	: Roman Yli-Hannuksela
+    ADDRESS	: V Aleji 1184
+    COUNTRY	: EGYPT
+    MONEY	: $827
+    CVV/CVV2: 806
+    EXPIRY	: 08/2029
+    PIN	: 7539
+    
+--------------------------------------------------------------------------------------
+                  	       MORE TOOLS
+--------------------------------------------------------------------------------------
+
+1. SINGLE VALID VISA CARD GENERATOR:
+   https://www.vccgenerator.org/visa-card-generator/
+
+2. CREDIT CARD GENERATOR:
+   https://www.vccgenerator.org/
+
+3. CREDIT CARD VALIDATOR:
+   https://www.vccgenerator.org/credit-card-validator/
+
+4. BIN/IIN CHECKER:
+   https://www.vccgenerator.org/bin-checker/
+
+5. BIN/IIN SEARCH TOOL:
+   https://www.vccgenerator.org/bin-search/
+
+
+--------------------------------------------------------------------------------------
+                  	       DISCLAIMER
+--------------------------------------------------------------------------------------
+Credit card numbers and details generated from VCCGenerator.org
+are VALID credit card numbers which follow the rule formula of Luhn Algorithm.
+These credit cards must NOT be used for harming or deceiving peoples.
+These credit cards are solely for educational purpose only. Use at your own risk!
+
+--------------------------------------------------------------------------------------
