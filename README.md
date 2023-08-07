@@ -5,7 +5,7 @@
 ## Overview
 Welcome to the Embedded Systems Nanodegrees! This comprehensive program is designed to provide you with practical hands-on experience in the exciting field of embedded systems. Whether you are starting fresh or looking to advance your skills, we have two distinct tracks to cater to your needs: the Embedded Systems Professional Nanodegree and the Embedded Systems Advanced Nanodegree.
 
----
+##
 
 #### Embedded Systems Professional Nanodegree:
 
@@ -15,7 +15,7 @@ You will dive into microcontroller programming, learning how to program microcon
 
 Moreover, you will gain expertise in designing excellent system statics, providing a strong foundation for your embedded systems journey. The program will also cover setting up communication between different microcontrollers and culminate in implementing exciting projects that push your knowledge and potential to the maximum.
 
----
+##
 
 #### Embedded Systems Advanced Nanodegree:
 
