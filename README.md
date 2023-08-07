@@ -7,7 +7,7 @@ Welcome to the Embedded Systems Nanodegrees! This comprehensive program is desig
 
 ##
 
-#### Embedded Systems Professional Nanodegree:
+### Embedded Systems Professional Nanodegree:
 
 In this track, you will enter the world of embedded systems and receive a thorough recap on C programming. Through a challenging and engaging big project, you will enhance your C programming skills, which are fundamental for success in embedded systems development.
 
@@ -17,7 +17,7 @@ Moreover, you will gain expertise in designing excellent system statics, providi
 
 ##
 
-#### Embedded Systems Advanced Nanodegree:
+### Embedded Systems Advanced Nanodegree:
 
 If you are seeking to elevate your career and become a professional in the field of embedded systems, the Embedded Systems Advanced Nanodegree is tailored for you. Building on the skills gained in the Professional Nanodegree, this track delves into advanced topics in embedded systems. You will get hands-on experience in both static and dynamic system design, enabling you to create highly efficient and clear systems designs. 
 
